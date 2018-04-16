@@ -1,0 +1,19 @@
+{
+  "name": "socket-to-me",
+  "version": "1.0.0",
+  "description": "a basic fullstack app that uses sockets, express, angular, ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cgradwohl/socket-to-me.git"
+  },
+  "author": "Chris S. Gradwohl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgradwohl/socket-to-me/issues"
+  },
+  "homepage": "https://github.com/cgradwohl/socket-to-me#readme"
+}
